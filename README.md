@@ -30,11 +30,12 @@ c. not flexible
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-Regular testing ensures high quality. High standards reduce the probability of bugs and problems in software. 
+Regular testing ensures high quality. High standards reduce the probability of bugs and problems in software, it also increases the predictability of software which makes consumers or clients have more trust in developers 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Adetailed project schedule allows for gray areas that have not been adressed to stand out and be addressed. A detailed project schedule can be shared with the whole team and
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
@@ -49,5 +50,5 @@ Regular testing ensures high quality. High standards reduce the probability of b
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Understanding trends allows me to plot the demographics and preferences  of future consumers and the how the potential consumers will relate with the product.
 
-Market trends can help in monitoring competiitors in the field and the methods they are using to pull clients as well as the inovative technology they are implementing into their existing software and product selection. This innovaative technology being implemented is used as a basis for growth and
+Market trends can help in monitoring competiitors in the field and the methods they are using to pull clients as well as the inovative technology they are implementing into their existing software and product selection. This innovaative technology being implemented is used as a basis for developing the software
 
