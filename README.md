@@ -6,8 +6,28 @@
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+The Agile methodology is flexible allowing developers to work on different parts of the software and to adress any issues as they come. For exmple lets say the 
+year is 2020 and developers for a financial education platform have heard that AI is the in thing, they quickly implement AI into the design process.
+Advantages of Agile Methodology
+a. flexible
+b. relatively more time efficient
+
+Disdvantages of Agile Methodology
+a. software is susceptible to error
+b. complex to manage project changes
+c.
+
+The Waterfall methodology is a step by step methodology that works in chronological order. 
+Advantages of Waterfall Methodology
+
+Disdvantages of Waterfall Methodology
+a. time consuming overall
+b. project may be stuck at one stage
+c. not flexible
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Regular testing ensures high quality. High standards reduce the probability of bugs and problems in software. 
