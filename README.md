@@ -18,6 +18,7 @@ year is 2020 and developers for a financial education platform have heard that A
 Advantages of Agile Methodology
 a. flexible
 b. relatively more time efficient
+c. requires stakeholder involvement.
 
 Disdvantages of Agile Methodology
 a. software is susceptible to error
@@ -25,25 +26,27 @@ b. complex to manage project changes
 c.
 
 The Waterfall methodology is a step by step methodology that works in chronological order. 
-Advantages of Waterfall Methodology
+Advantages of Waterfall Methodology.
+a. The process is predictable.
+b. the clear steps lead to higher reliability.
 
 Disdvantages of Waterfall Methodology
-a. time consuming overall
-b. project may be stuck at one stage
-c. not flexible
+a. time consuming overall.
+b. project may be stuck at one stage.
+c. not flexible.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-
+Waterfall is more beneficial for projects with strict and clear deadlines while agile is more beneficial for dynamic projects
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Regular testing ensures high quality. High standards reduce the probability of bugs and problems in software, it also increases the predictability of software which makes consumers or clients have more trust in developers 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-The scope is the area  o r extent that the project covers. With clear scope a project is more manageable. The WBS is a planning tool used to breakdpwn the scope of a project while integrating cost and time structure for understandability. It helps project managers to develop and plan the project schedule as well monitor the project.
+The scope is the area  o r extent that the project covers. With clear scope a project is more manageable. The WBS is a planning tool used to breakdpwn the scope of a project while integrating cost and time structure for understandability. It helps project managers to develop and plan the project schedule as well monitor the project. This includes knowing the cost structure of the project.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-Adetailed project schedule allows for gray areas that have not been adressed to stand out and be addressed. A detailed project schedule can be shared with the whole team and
+A detailed project schedule allows for gray areas that have not been adressed to stand out and be addressed. A detailed project schedule can be shared with the whole team and
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
