@@ -4,6 +4,13 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control means that unneccessary costs are eliminated, more affordable softwares and tools and parts are used. This means money is spent on necessary expenses and the money will be actually available, with that in mind, the project has continuity because expenses are not an issue. 
+
+Strategies to avoid budget overruns:
+1. Set a budget which leaves extra funds for example the budget can be 2/3 of the actual funds
+2. All expenses must be justified in terms of how they contribute to the whole project, and cheaper alternatives must be found before spending
+3. A budget manager must be assigned to be responsible for the funds and to keep the team accountable for any expenses they individually incur as part of the project
+4. Place money in bank to keep account of deposits and withdrawals
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 The Agile methodology is flexible allowing developers to work on different parts of the software and to adress any issues as they come. For exmple lets say the 
