@@ -47,3 +47,7 @@ Regular testing ensures high quality. High standards reduce the probability of b
 ## 12. What data is available regarding the market size and growth potential for your software?
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding trends allows me to plot the demographics and preferences  of future consumers and the how the potential consumers will relate with the product.
+
+Market trends can help in monitoring competiitors in the field and the methods they are using to pull clients as well as the inovative technology they are implementing into their existing software and product selection. This innovaative technology being implemented is used as a basis for growth and
+
