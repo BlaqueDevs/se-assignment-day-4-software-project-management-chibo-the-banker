@@ -40,6 +40,7 @@ c. not flexible
 Regular testing ensures high quality. High standards reduce the probability of bugs and problems in software, it also increases the predictability of software which makes consumers or clients have more trust in developers 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+The scope is the area  o r extent that the project covers. With clear scope a project is more manageable. The WBS is a planning tool used to breakdpwn the scope of a project while integrating cost and time structure for understandability. It helps project managers to develop and plan the project schedule as well monitor the project.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Adetailed project schedule allows for gray areas that have not been adressed to stand out and be addressed. A detailed project schedule can be shared with the whole team and
